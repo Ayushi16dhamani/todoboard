@@ -20,4 +20,4 @@ const Input = ({tasklist, setTasklist}) => {
   )
 }
 
-export default Input
+export default Input;
